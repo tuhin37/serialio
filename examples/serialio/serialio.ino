@@ -1,4 +1,4 @@
-#include "./serialio.h"
+#include <serialio.h>
 
 float pi=3.1459;
 float bi;
